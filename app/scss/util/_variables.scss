@@ -1,0 +1,9 @@
+@use 'functions' as f;
+
+// spacing
+$base-padding: f.rem(12);
+$base-margin: f.rem(12);
+
+// borders
+$base-border-thickness: f.rem(1);
+$base-border-radius: f.rem(20);
